@@ -4,7 +4,7 @@
 This repository contains Python code to bulk download publicly available LiDAR data from [City of Vancouver Open Data Portal](https://opendata.vancouver.ca/pages/home/) for a specified year. 
 Please note the following:
 1. I am not affiliated with the City of Vancouver in any way. This code is developed and shared by me as a GIS enthusiast and is not an official resource provided by the City of Vancouver.
-2. The code is provided "as is" without warranty of any kind, express or implied. Use at your own risk.
+2. The code is provided "as is" without warranty of any kind, express or implied. Use at your own discretion.
 3. It is the user's responsibility to comply with the City of Vancouver's terms of service, licensing agreements, and any other applicable policies when accessing and using the downloaded data. Make sure you have the necessary permissions and licenses before using the data for any purpose.
 4. I am not liable for any damages, losses, or issues that may arise from using the code or the downloaded data. This includes, but is not limited to, data inaccuracies, data misuse, software errors, or violation of terms of service.
 5. Downloading large datasets may consume significant bandwidth and storage space. Ensure that you have sufficient resources and network capacity before running the code. Be mindful of any usage restrictions or rate limits imposed by the City of Vancouver.
