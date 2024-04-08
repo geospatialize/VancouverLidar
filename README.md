@@ -23,7 +23,7 @@ To run the Python scripts in this repository, you need to have the following ins
 - Required Python packages: `csv`, `os`, `requests`, `zipfile`, `tqdm`, `signal`
 - I have tried to use as much PSL (Python Standard Library) as much as possible but you may have to install `requests` and `tqdm`.
 
-You can install this package using pip:
+You can install these packages using pip:
 ```
 pip install requests tqdm
 ```
