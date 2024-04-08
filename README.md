@@ -9,7 +9,7 @@ Please note the following:
 4. I am not liable for any damages, losses, or issues that may arise from using the code or the downloaded data. This includes, but is not limited to, data inaccuracies, data misuse, software errors, or violation of terms of service.
 5. Downloading large datasets may consume significant bandwidth and storage space. Ensure that you have sufficient resources and network capacity before running the code. Be mindful of any usage restrictions or rate limits imposed by the City of Vancouver.
 6. The code is intended for educational and research purposes only. If you plan to use the downloaded data for commercial or production purposes, please consult the City of Vancouver's licensing terms and obtain the necessary permissions.
-7. If you encounter any issues or have questions regarding the data or the code, please contact the City of Vancouver directly. I am not responsible for providing support or addressing data-related inquiries.
+7. If you encounter any issues or have questions regarding the data, please contact the City of Vancouver directly. I am not responsible for providing support or addressing data-related inquiries.
 By using this code and downloading the LiDAR data, you acknowledge that you have read, understood, and agreed to the terms and conditions outlined in this disclaimer.
 
 ## Python Code to download the City of Vancouver's Lidar Data (Vancouver, British Columbia)
